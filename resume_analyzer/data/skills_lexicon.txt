@@ -1,0 +1,136 @@
+# Skills Lexicon — one skill per line (case-insensitive)
+# Programming Languages
+python
+sql
+java
+c++
+c
+javascript
+r
+scala
+julia
+bash
+shell scripting
+
+# ML / AI
+machine learning
+deep learning
+natural language processing
+nlp
+computer vision
+scikit-learn
+tensorflow
+keras
+pytorch
+xgboost
+lightgbm
+random forest
+decision tree
+logistic regression
+linear regression
+clustering
+classification
+regression
+neural network
+transfer learning
+reinforcement learning
+feature engineering
+model deployment
+hyperparameter tuning
+cross validation
+a/b testing
+time series
+forecasting
+anomaly detection
+recommendation system
+sentiment analysis
+text classification
+named entity recognition
+ner
+topic modeling
+word2vec
+bert
+transformers
+generative ai
+llm
+large language model
+
+# Data & Analytics
+pandas
+numpy
+scipy
+data analysis
+exploratory data analysis
+eda
+data cleaning
+data wrangling
+data preprocessing
+data pipeline
+etl
+statistics
+hypothesis testing
+regression analysis
+data modelling
+
+# Visualization
+matplotlib
+seaborn
+plotly
+power bi
+tableau
+excel
+data visualization
+dashboard
+
+# Databases
+mysql
+postgresql
+mongodb
+sqlite
+redis
+firebase
+nosql
+sql server
+oracle
+
+# Cloud
+aws
+azure
+gcp
+google cloud
+amazon web services
+ec2
+s3
+lambda
+cloud computing
+cloud foundations
+docker
+kubernetes
+ci/cd
+devops
+
+# Tools & Frameworks
+git
+github
+jupyter notebook
+jupyter
+vs code
+visual studio code
+linux
+rest api
+fastapi
+flask
+django
+streamlit
+airflow
+spark
+hadoop
+kafka
+
+# Soft skills (optional)
+problem solving
+communication
+teamwork
+project management
+agile
+scrum
